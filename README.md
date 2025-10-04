@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2022 🎉</h1>
+<h1 align="center"> Hacktoberfest 2025 🎉</h1>
 
 # Note
 
@@ -18,7 +18,7 @@ If this happens then you will not get any swags or t-shirt.
 '''
 ```
 
-### 🗣 https://hacktoberfest2022-github.netlify.app/ 🔥.
+### 🗣 https://hacktoberfest2025-github.netlify.app/ 🔥.
 
 📢 **This repository is deployed and and after you request will be merged you can see it from above link **
 
