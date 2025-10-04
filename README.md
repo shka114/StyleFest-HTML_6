@@ -10,8 +10,8 @@
 
 ```py
 '''
-Always try to make more then 4 pull requests.
-Let's assume you have made only 4 pull request to different projects.
+Always try to make more then 6 pull requests.
+Let's assume you have made only 6 pull request to different projects.
 but one project is excluded from hackoctoberfest event.
 Then your pull request will not be counted and you will just have 3 valid pull requests.
 If this happens then you will not get any swags or t-shirt.
@@ -27,7 +27,7 @@ If this happens then you will not get any swags or t-shirt.
 ## ⏳ Steps to Follow :
 
 - [x] **Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and get started to make your first PR.**
-- [x] **Make 4 valid PRs during the period of (1st - 31st) October to earn cool swags.**
+- [x] **Make 6 valid PRs during the period of (1st - 31st) October to earn cool swags.**
 
  <br>
 
@@ -115,219 +115,19 @@ Now add this follwing code snippet. (with your github username where required)
 <table>
     <tr>
         <td align="center">
-           <a href="https://github.com/khawajaazfar2000">
+           <a href="https://github.com/khawajaazfar">
            <img src="https://avatars.githubusercontent.com/u/73386961?v=4" width="100px;" alt=""/>
          <br />
         <sub> <b>Khawaja Azfar</b> </sub>
      </td>
             
 
-<td align="center">
-<a href="https://github.com/muji-asif">
-    <img src="https://avatars.githubusercontent.com/u/115453222?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-           MUJJI-ASIF
-        </b>
-    </sub>
-</td>
+
 
 <!-- Add your snippet here -->
 
 
-<td align="center">
-<a href="https://github.com/rani620">
-    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHDbgEBcpAg6g/profile-displayphoto-shrink_800_800/0/1663407546946?e=1672272000&v=beta&t=r2j5T3MtDvXLQhLnpkORqRj6dIvOVVX7KfSgX8etVAo" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Rani Kumari
-        </b>
-    </sub>
-</td>
 
 
 
-
-<td align="center">
-<a href="https://github.com/lsgdefault">
-    <img src="https://i.postimg.cc/sXyzfwVW/white-20220814-140433.jpg" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Kaivalya Ahir
-        </b>
-    </sub>
-</td>
-    <!-- Add your snippet here -->
-    <td align="center">
-<a href="https://github.com/shashank1529">
-    <img src="https://avatars.githubusercontent.com/u/97579275?s=400&u=539ba75ea77da17c6e0edb2a8201f61d00247170&v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Shashank Kumar
-        </b>
-    </sub>
-</td>
-
-<td align="center">
-<a href="https://github.com/Parag477">
-    <img src="https://avatars.githubusercontent.com/u/60110529?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Parag Agrawal
-        </b>
-    </sub>
-</td>
-
-<td align="center">
-<a href="https://github.com/Roopshali">
-    <img src="https://user-images.githubusercontent.com/75069150/195845223-e9128a23-3d41-46a5-ab40-61ec751ec34f.png" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Roopshali Roy
-        </b>
-    </sub>
-</td>
-
-<td align="center">
-<a href="https://github.com/rudraneel18">
-    <img src="https://avatars.githubusercontent.com/u/64578089?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Rudraneel Dutta
-        </b>
-    </sub>
-</td>
-<td align="center">
-<a href="https://github.com/Anshsahu0802">
-    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE_CTofkPfMdw/profile-displayphoto-shrink_400_400/0/1660828391115?e=1671062400&v=beta&t=wKgtoyoynPdWLhNt7YjJMkXsM946inrmOucrtBoH6lw" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Ansh Sahu
-        </b>
-    </sub>
-</td>
-
-<td align="center">
-<a href="https://github.com/rishuriya">
-    <img src="https://avatars.githubusercontent.com/u/85174423?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Rishav Kumar
-        </b>
-    </sub>
-</td>
-<td align="center">
-<a href="https://github.com/fahadashiq12">
-    <img src="https://avatars.githubusercontent.com/u/44393684?s=400&u=d92cd0c5d82c93a22202b8c51cd26ab993f77d6e&v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-          Fahad Ashiq
-        </b>
-    </sub>
-</td>
-<td align="center">
-<a href="https://github.com/inzamamahmad3">
-    <img src="https://avatars.githubusercontent.com/u/76010008?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Inzamam Ahmad
-        </b>
-    </sub>
-</td>
-<td align="center">
-<a href="https://github.com/Aditya973">
-    <img src="https://avatars.githubusercontent.com/u/78346698?s=400&u=b98892b64175ae06d08fd54328d542fcc9a97417&v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Aditya Tiwari
-        </b>
-    </sub>
-</td>
-</tr>
-<td align="center">
-<a href="https://github.com/shiva1217">
-    <img src="https://www.linkedin.com/mwlite/in/shivangi-singh-604aa4226#image-modal" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Shivangi Singh 
-        </b>
-    </sub>
-</td>
-<td align="center">
-<a href="https://github.com/harsha094">
-    <img src="https://avatars.githubusercontent.com/u/78435208?s=400&v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Harsh Raghuwanshi
-        </b>
-    </sub>
-</td>
-<td align="center">
-<a href="https://github.com/aditya7302">
-    <img src="https://avatars.githubusercontent.com/u/78435208?s=400&v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Aditya Garg
-        </b>
-    </sub>
-</td>
-<td align="center">
-<a href="https://github.com/mvpsdvlpr>
-    <img src="https://avatars.githubusercontent.com/u/65572029?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Sergio Matamala
-        </b>
-    </sub>
-</td>
-                                                                                         
-<td align="center">
-<a href="https://github.com/Pratikshaekbote">
-    <img src="https://avatars.githubusercontent.com/u/80769944?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Pratiksha Ekbote                                                                     
-</b>
-    </sub>
-</td>
-                                                                                         
-<td align="center">
-<a href="https://github.com/alisezisli">
-    <img src="https://avatars.githubusercontent.com/u/9167371?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Ali Sezişli
-
-        </b>
-    </sub>
-</td>
-
-<td align="center">
-<a href="https://github.com/berikasener">
-    <img src="https://lh3.googleusercontent.com/AmKSpZt_rynhOO0ID1eS0gqeW3DFzoH6KNZkAAgepQ0t9MDRQTmil-nlY5GqkZ_7El0=s180" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            Berika ŞENER
-        </b>
-    </sub>
-</td>
 </table>
