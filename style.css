@@ -2,14 +2,14 @@
    IMPORTS & FONTS
    =================================== */
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 
 /* ===================================
    ROOT VARIABLES
    =================================== */
 :root {
   --primary-color: #0ff; /* neon cyan */
-  --primary-hover: #0aa; 
+  --primary-hover: #0aa;
   --secondary-color: #ff00ff; /* neon magenta */
   --accent-color: #ff0; /* neon yellow */
   --dark-bg: #0a0a0a; /* very dark background */
@@ -35,12 +35,11 @@
 
 body {
   background: radial-gradient(circle at 20% 30%, #0ff 0%, #0a0a0a 100%);
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   min-height: 100vh;
   overflow-x: hidden;
   color: var(--text-primary);
 }
-
 
 /* ===================================
    NAVIGATION
@@ -59,7 +58,11 @@ body {
   font-size: 1.5rem;
   letter-spacing: 1px;
   text-transform: uppercase;
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--secondary-color)
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -75,18 +78,26 @@ body {
 }
 
 #team::before {
-  content: '';
+  content: "";
   position: absolute;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.1) 1px,
+    transparent 1px
+  );
   background-size: 50px 50px;
   animation: moveBackground 20s linear infinite;
 }
 
 @keyframes moveBackground {
-  0% { transform: translate(0, 0); }
-  100% { transform: translate(50px, 50px); }
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(50px, 50px);
+  }
 }
 
 section {
@@ -109,7 +120,7 @@ section .section-title {
 }
 
 section .section-title::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -15px;
   left: 50%;
@@ -134,7 +145,11 @@ section .section-title:hover::after {
    BUTTONS
    =================================== */
 .btn-primary {
- background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--secondary-color)
+  );
   color: #000;
   box-shadow: 0 0 10px var(--primary-color), 0 0 20px var(--secondary-color);
   border: none;
@@ -148,13 +163,18 @@ section .section-title:hover::after {
 }
 
 .btn-primary::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: -100%;
   width: 100%;
   height: 100%;
-  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.3),
+    transparent
+  );
   transition: var(--transition-smooth);
 }
 
@@ -164,7 +184,11 @@ section .section-title:hover::after {
 
 .btn-primary:hover,
 .btn-primary:focus {
-   background: linear-gradient(135deg, var(--accent-color), var(--primary-color));
+  background: linear-gradient(
+    135deg,
+    var(--accent-color),
+    var(--primary-color)
+  );
   box-shadow: 0 0 20px var(--accent-color), 0 0 40px var(--primary-color);
   transform: translateY(-2px);
   outline: none;
@@ -193,13 +217,18 @@ section .section-title:hover::after {
 }
 
 #team .card::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   height: 5px;
-  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color), var(--accent-color));
+  background: linear-gradient(
+    90deg,
+    var(--primary-color),
+    var(--secondary-color),
+    var(--accent-color)
+  );
   opacity: 0;
   transition: var(--transition-smooth);
 }
@@ -215,7 +244,6 @@ section .section-title:hover::after {
   transform: translateY(-10px);
   box-shadow: 0 0 40px var(--primary-color), 0 0 80px var(--secondary-color);
 }
-
 
 .image-flip {
   perspective: 1000px;
@@ -346,7 +374,11 @@ section .section-title:hover::after {
   justify-content: center;
   width: 45px;
   height: 45px;
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--secondary-color)
+  );
   border-radius: 50%;
   color: #ffffff !important;
   transition: var(--transition-bounce);
@@ -356,7 +388,11 @@ section .section-title:hover::after {
 .social-icon:hover {
   transform: translateY(-5px) scale(1.1);
   box-shadow: var(--shadow-xl);
-  background: linear-gradient(135deg, var(--accent-color), var(--primary-color));
+  background: linear-gradient(
+    135deg,
+    var(--accent-color),
+    var(--primary-color)
+  );
 }
 
 .social-icon i {
@@ -381,14 +417,14 @@ section .section-title:hover::after {
 }
 
 .cursor-dot {
-    width: 12px;
+  width: 12px;
   height: 12px;
   background-color: var(--primary-color);
   box-shadow: 0 0 10px var(--primary-color), 0 0 20px var(--secondary-color);
 }
 
 .cursor-dot-outline {
- width: 50px;
+  width: 50px;
   height: 50px;
   border: 2px solid var(--primary-color);
   box-shadow: 0 0 20px var(--primary-color), 0 0 40px var(--secondary-color);
@@ -402,17 +438,17 @@ section .section-title:hover::after {
   section .section-title {
     font-size: 2rem;
   }
-  
+
   .frontside .card,
   .backside .card {
     min-height: 350px;
   }
-  
+
   .frontside .card-body,
   .backside .card-body {
     padding: 1.5rem;
   }
-  
+
   section {
     padding: 60px 0;
   }
@@ -422,7 +458,11 @@ section .section-title:hover::after {
    UTILITY CLASSES
    =================================== */
 .text-gradient {
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--secondary-color)
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -447,7 +487,36 @@ section .section-title:hover::after {
   animation-fill-mode: both;
 }
 
-.col-xs-12:nth-child(1) { animation-delay: 0.1s; }
-.col-xs-12:nth-child(2) { animation-delay: 0.2s; }
-.col-xs-12:nth-child(3) { animation-delay: 0.3s; }
-.col-xs-12:nth-child(4) { animation-delay: 0.4s; }
+.col-xs-12:nth-child(1) {
+  animation-delay: 0.1s;
+}
+.col-xs-12:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.col-xs-12:nth-child(3) {
+  animation-delay: 0.3s;
+}
+.col-xs-12:nth-child(4) {
+  animation-delay: 0.4s;
+}
+
+#scrollupBtn {
+  background-color: #bc13fe;
+  color: whitesmoke;
+  cursor: pointer;
+  position: fixed;
+  bottom: 15px;
+  right: 30px;
+  display: none;
+  border: none;
+  outline: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+#scrollupBtn:hover {
+  background-color: #b988cd69;
+}
